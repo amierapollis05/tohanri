@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -92,7 +92,7 @@
     <h1 color="yellow">happy 6 months babe!</h1>
     <div class="poem">
       <h2>Dear Liefie Lyfie</h2>
-      <p font="Fantasy">Who would've thought, we would end up together.The girl who walked into Mrs D Du Toits math class, blond hair, big ass school bag and PT clothes. Thank you for always being there for me no matter what. You have really changed me, making me happier than ever. There's this word in arabic "نور" which means nur or light. You're this unexplainable bundle of joy with nur all over you face. Happy 6 months babe i love you. I promise that I'll marry you one day. <br>
+      <p font="Fantasy">Who would've thought, we would end up together.The girl who walked into Mrs D Du Toits math class, blond hair, big ass school bag and PT clothes. Thank you for always being there for me no matter what.I know i make you mad sometimes... alot of times, but you've always showed that you love me unconditionally. You have really changed me, making me happier than ever.In times of need you make me smile with your flow jokes and i appriciate you for that baby. There's not a day that goes past where I don't think about you.  There's this word in arabic "نور" which means nur or light. You're this unexplainable bundle of joy with nur all over you face. Happy 6 months babe i love you. I can't imagine a future without you hanri. I promise that I'll marry you one day. <br>
         <br>Love <br>
         <br>Your one and only husband Amier <br>
       </p>
@@ -104,7 +104,7 @@
     <div class="gallery">
       <h2>Memories Together</h2>
       <!-- Add your pictures here -->
-      <img src="image1.jpg" alt="Us 1">
+      <img src="Desktop/chloroplast.jpeg" alt="Us 1">
       <img src="image2.jpg" alt="Us 2">
       <img src="image1.jpg" alt="Us 3">
       <img src="image2.jpg" alt="Us 4">

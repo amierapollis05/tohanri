@@ -104,7 +104,7 @@
     <div class="gallery">
       <h2>Memories Together</h2>
       <!-- Add your pictures here -->
-      <img src="Desktop/chloroplast.jpeg" alt="Us 1">
+      <img src="/Users/Guest/Desktop/chloroplast.jpeg" alt="Us 1">
       <img src="image2.jpg" alt="Us 2">
       <img src="image1.jpg" alt="Us 3">
       <img src="image2.jpg" alt="Us 4">
